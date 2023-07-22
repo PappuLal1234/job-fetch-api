@@ -26,7 +26,7 @@
 
 * DataBase Design -
 
-  For Database i am using MySQL and created a pogo for user management where i performing CRUD
+  For Database i am using H2(In-Memory DB) and created a pogo for Job management where i performing CRUD
   operation with user basic information.
 
 #  Data Structure used in project
